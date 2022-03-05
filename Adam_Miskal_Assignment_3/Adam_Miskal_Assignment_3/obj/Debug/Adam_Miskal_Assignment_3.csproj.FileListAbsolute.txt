@@ -1,0 +1,15 @@
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.exe.config
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.exe
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.pdb
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.csproj.AssemblyReference.cache
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.exe
+C:\Users\adamn\source\repos\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.pdb
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.exe.config
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.exe
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\bin\Debug\Adam_Miskal_Assignment_3.pdb
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.csproj.AssemblyReference.cache
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.exe
+C:\Users\adamn\Desktop\Adam_Miskal_Assignment_3\Adam_Miskal_Assignment_3\obj\Debug\Adam_Miskal_Assignment_3.pdb
